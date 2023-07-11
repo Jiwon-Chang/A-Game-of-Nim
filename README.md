@@ -8,3 +8,4 @@ Enjoy!
 
 *Note: You will have figured out the winning strategy once you have beaten the computer in "smart" mode.
 
+Made in 2020
